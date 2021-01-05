@@ -1,3 +1,3 @@
 # NetCoreWebPlayground
-# NetCoreWebPlayground
-# NetCoreWebPlayground
+
+Testing out .NET Core framework.
